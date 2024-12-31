@@ -1,0 +1,14 @@
+D:\Notes\C#\Enrollment\Enrollment.Datamodel\bin\Debug\net6.0\Enrollment.Datamodel.deps.json
+D:\Notes\C#\Enrollment\Enrollment.Datamodel\bin\Debug\net6.0\Enrollment.Datamodel.runtimeconfig.json
+D:\Notes\C#\Enrollment\Enrollment.Datamodel\bin\Debug\net6.0\Enrollment.Datamodel.dll
+D:\Notes\C#\Enrollment\Enrollment.Datamodel\bin\Debug\net6.0\Enrollment.Datamodel.pdb
+D:\Notes\C#\Enrollment\Enrollment.Datamodel\obj\Debug\net6.0\Enrollment.Datamodel.csproj.AssemblyReference.cache
+D:\Notes\C#\Enrollment\Enrollment.Datamodel\obj\Debug\net6.0\Enrollment.Datamodel.GeneratedMSBuildEditorConfig.editorconfig
+D:\Notes\C#\Enrollment\Enrollment.Datamodel\obj\Debug\net6.0\Enrollment.Datamodel.AssemblyInfoInputs.cache
+D:\Notes\C#\Enrollment\Enrollment.Datamodel\obj\Debug\net6.0\Enrollment.Datamodel.AssemblyInfo.cs
+D:\Notes\C#\Enrollment\Enrollment.Datamodel\obj\Debug\net6.0\Enrollment.Datamodel.csproj.CoreCompileInputs.cache
+D:\Notes\C#\Enrollment\Enrollment.Datamodel\obj\Debug\net6.0\Enrollment.Datamodel.dll
+D:\Notes\C#\Enrollment\Enrollment.Datamodel\obj\Debug\net6.0\refint\Enrollment.Datamodel.dll
+D:\Notes\C#\Enrollment\Enrollment.Datamodel\obj\Debug\net6.0\Enrollment.Datamodel.pdb
+D:\Notes\C#\Enrollment\Enrollment.Datamodel\obj\Debug\net6.0\Enrollment.Datamodel.genruntimeconfig.cache
+D:\Notes\C#\Enrollment\Enrollment.Datamodel\obj\Debug\net6.0\ref\Enrollment.Datamodel.dll

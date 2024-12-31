@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Enrollment.App.props" />
+</Project>

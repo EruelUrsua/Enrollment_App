@@ -28,3 +28,4 @@ D:\Notes\C#\Enrollment\Enrollment.App\obj\Debug\net6.0\refint\Enrollment.App.dll
 D:\Notes\C#\Enrollment\Enrollment.App\obj\Debug\net6.0\Enrollment.App.pdb
 D:\Notes\C#\Enrollment\Enrollment.App\obj\Debug\net6.0\Enrollment.App.genruntimeconfig.cache
 D:\Notes\C#\Enrollment\Enrollment.App\obj\Debug\net6.0\ref\Enrollment.App.dll
+D:\Notes\C#\Enrollment\Enrollment.App\obj\Debug\net6.0\Enrollment.App.sourcelink.json

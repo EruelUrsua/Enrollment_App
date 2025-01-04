@@ -12,3 +12,4 @@ D:\Notes\C#\Enrollment\Enrollment.Datamodel\obj\Debug\net6.0\refint\Enrollment.D
 D:\Notes\C#\Enrollment\Enrollment.Datamodel\obj\Debug\net6.0\Enrollment.Datamodel.pdb
 D:\Notes\C#\Enrollment\Enrollment.Datamodel\obj\Debug\net6.0\Enrollment.Datamodel.genruntimeconfig.cache
 D:\Notes\C#\Enrollment\Enrollment.Datamodel\obj\Debug\net6.0\ref\Enrollment.Datamodel.dll
+D:\Notes\C#\Enrollment\Enrollment.Datamodel\obj\Debug\net6.0\Enrollment.DataModel.sourcelink.json

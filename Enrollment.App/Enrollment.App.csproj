@@ -6,4 +6,8 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Enrollment.Datamodel\Enrollment.DataModel.csproj" />
+  </ItemGroup>
+
 </Project>

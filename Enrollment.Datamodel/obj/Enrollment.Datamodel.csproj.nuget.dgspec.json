@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Notes\\C#\\Enrollment\\Enrollment.Datamodel\\Enrollment.Datamodel.csproj": {}
+    "D:\\Notes\\C#\\Enrollment\\Enrollment.Datamodel\\Enrollment.DataModel.csproj": {}
   },
   "projects": {
-    "D:\\Notes\\C#\\Enrollment\\Enrollment.Datamodel\\Enrollment.Datamodel.csproj": {
+    "D:\\Notes\\C#\\Enrollment\\Enrollment.Datamodel\\Enrollment.DataModel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Notes\\C#\\Enrollment\\Enrollment.Datamodel\\Enrollment.Datamodel.csproj",
-        "projectName": "Enrollment.Datamodel",
-        "projectPath": "D:\\Notes\\C#\\Enrollment\\Enrollment.Datamodel\\Enrollment.Datamodel.csproj",
+        "projectUniqueName": "D:\\Notes\\C#\\Enrollment\\Enrollment.Datamodel\\Enrollment.DataModel.csproj",
+        "projectName": "Enrollment.DataModel",
+        "projectPath": "D:\\Notes\\C#\\Enrollment\\Enrollment.Datamodel\\Enrollment.DataModel.csproj",
         "packagesPath": "C:\\Users\\eruel\\.nuget\\packages\\",
         "outputPath": "D:\\Notes\\C#\\Enrollment\\Enrollment.Datamodel\\obj\\",
         "projectStyle": "PackageReference",

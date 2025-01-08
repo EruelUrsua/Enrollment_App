@@ -13,10 +13,11 @@ namespace Enrollment.App.Controllers
         }
         public IActionResult Index()
         {
-            return View();
+            return View(context.Students.OrderByDescending(o => o.Lastname).ToList());
         }
 
-        public IActionResult Add() {
+        public IActionResult Add()
+        {
 
             return View(new Student());
         }
@@ -24,11 +25,44 @@ namespace Enrollment.App.Controllers
         [HttpPost]
         [ValidateAntiForgeryToken]
 
-        public IActionResult Add(Student model)
+         public async Task<IActionResult> Add(Student model)
         {
-            context.Add<Student>(model);
-            context.SaveChanges();
+            await context.AddAsync(model);
+            //context.Set<Student>().Add(model);
+            await context.SaveChangesAsync();
             return RedirectToAction("Index");
         }
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public async Task<IActionResult> Delete(int id)
+        {
+            var student =  await context.Students.FindAsync(id);
+            context.Set<Student>().Remove(student);
+            await context.SaveChangesAsync();
+
+            return RedirectToAction("Index");
+        }
+
+        public async Task<IActionResult> Edit(int? id)
+        {
+            if (id == null) return RedirectToAction("Index");
+
+            var student = await context.Students.FindAsync(id);
+
+            return View(student);
+        }
+
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+
+        public async Task<IActionResult> Edit(Student model)
+        {
+            context.Set<Student>().Update(model);
+           // context.Update(model);
+            await context.SaveChangesAsync();
+            return RedirectToAction("Index"); 
+        }
+
+
     }
 }

@@ -1,15 +1,17 @@
-﻿@model Student
+﻿@model StudentVM
 
 <h3>Edit Student</h3>
 <form asp-controller="Student" asp-action="Edit" method="post">
     <input type="hidden" asp-for"Id" />
     <label asp-for="Lastname"></label>
     <input type="text" asp-for="Lastname" class="form-control" />
-    <br />
+    <span asp-validation-for="Lastname" class="text-danger"></span>
+    <br /> <br />
 
     <label asp-for="Firstname"></label>
     <input type="text" asp-for="Firstname" class="form-control" />
-    <br />
+    <span asp-validation-for="Firstname" class="text-danger"></span>
+    <br /><br />
 
     <a asp-controller="Student" asp-action="Index" class="btn btn-primary">
         Back

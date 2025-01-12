@@ -1,4 +1,6 @@
-﻿using Enrollment.Datamodel;
+﻿using AutoMapper;
+using Enrollment.App.Models;
+using Enrollment.Datamodel;
 using Enrollment.DataModel;
 using Microsoft.AspNetCore.Mvc;
 
@@ -7,30 +9,47 @@ namespace Enrollment.App.Controllers
     public class StudentController : Controller
     {
         private readonly AppDbContext context;
-        public StudentController(AppDbContext context)
+
+        private readonly IMapper mapper;
+
+        public StudentController(AppDbContext context, IMapper mapper)
         {
             this.context = context;
+            this.mapper = mapper;
         }
         public IActionResult Index()
         {
-            return View(context.Students.OrderByDescending(o => o.Lastname).ToList());
+            List<StudentVM> list = mapper.Map<List<StudentVM>>(context.Students.ToList());
+            return View(list);
         }
 
         public IActionResult Add()
         {
 
-            return View(new Student());
+            return View(new StudentVM());
         }
 
         [HttpPost]
         [ValidateAntiForgeryToken]
 
-         public async Task<IActionResult> Add(Student model)
+         public async Task<IActionResult> Add(StudentVM model)
         {
-            await context.AddAsync(model);
-            //context.Set<Student>().Add(model);
-            await context.SaveChangesAsync();
-            return RedirectToAction("Index");
+            Student entity = mapper.Map<Student>(model);
+            //entity.Id = model.Id;
+            //entity.Lastname = model.Lastname;
+            //entity.Firstname = model.Firstname;
+
+            if (ModelState.IsValid == true)
+            {
+                await context.AddAsync(mapper.Map<Student>(model));
+                //context.Set<Student>().Add(model);
+                await context.SaveChangesAsync();
+                return RedirectToAction("Index");
+            }
+            else
+            { 
+                return View(model);
+            }
         }
         [HttpPost]
         [ValidateAntiForgeryToken]
@@ -47,7 +66,7 @@ namespace Enrollment.App.Controllers
         {
             if (id == null) return RedirectToAction("Index");
 
-            var student = await context.Students.FindAsync(id);
+            StudentVM student = mapper.Map<StudentVM>(await context.Students.FindAsync(id));
 
             return View(student);
         }
@@ -55,12 +74,18 @@ namespace Enrollment.App.Controllers
         [HttpPost]
         [ValidateAntiForgeryToken]
 
-        public async Task<IActionResult> Edit(Student model)
+        public async Task<IActionResult> Edit(StudentVM model)
         {
-            context.Set<Student>().Update(model);
-           // context.Update(model);
-            await context.SaveChangesAsync();
-            return RedirectToAction("Index"); 
+            if (ModelState.IsValid == true)
+            {
+                context.Set<Student>().Update(mapper.Map<Student>(model));
+                // context.Update(model);
+                await context.SaveChangesAsync();
+                return RedirectToAction("Index");
+            }
+            else { 
+                return View(model);
+            }
         }
 
 

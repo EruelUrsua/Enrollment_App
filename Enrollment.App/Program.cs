@@ -1,3 +1,4 @@
+using Enrollment.App.Configuration;
 using Enrollment.Datamodel;
 using Microsoft.EntityFrameworkCore;
 
@@ -9,6 +10,9 @@ builder.Services.AddDbContext<AppDbContext>(opts =>
     
     }
 );
+
+builder.Services.AddAutoMapper(typeof(MapperConfig));
+
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();

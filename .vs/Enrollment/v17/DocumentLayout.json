@@ -7,6 +7,7 @@
       "RelativeMoniker": "D:0:0:{2DB9BE4F-8126-43B1-9AB5-CCBD8154111C}|Enrollment.App\\Enrollment.App.csproj|solutionrelative:enrollment.app\\views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+<<<<<<< Updated upstream
       "AbsoluteMoniker": "D:0:0:{2DB9BE4F-8126-43B1-9AB5-CCBD8154111C}|Enrollment.App\\Enrollment.App.csproj|d:\\notes\\c#\\enrollment\\enrollment.app\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2DB9BE4F-8126-43B1-9AB5-CCBD8154111C}|Enrollment.App\\Enrollment.App.csproj|solutionrelative:enrollment.app\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -27,16 +28,30 @@
       "RelativeMoniker": "D:0:0:{6AD8CF91-5D40-4131-956A-DBBBF0456592}|Enrollment.Datamodel\\Enrollment.DataModel.csproj|solutionrelative:enrollment.datamodel\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+=======
+>>>>>>> Stashed changes
       "AbsoluteMoniker": "D:0:0:{2DB9BE4F-8126-43B1-9AB5-CCBD8154111C}|Enrollment.App\\Enrollment.App.csproj|d:\\notes\\c#\\enrollment\\enrollment.app\\views\\student\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{2DB9BE4F-8126-43B1-9AB5-CCBD8154111C}|Enrollment.App\\Enrollment.App.csproj|solutionrelative:enrollment.app\\views\\student\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DB9BE4F-8126-43B1-9AB5-CCBD8154111C}|Enrollment.App\\Enrollment.App.csproj|d:\\notes\\c#\\enrollment\\enrollment.app\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DB9BE4F-8126-43B1-9AB5-CCBD8154111C}|Enrollment.App\\Enrollment.App.csproj|solutionrelative:enrollment.app\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DB9BE4F-8126-43B1-9AB5-CCBD8154111C}|Enrollment.App\\Enrollment.App.csproj|d:\\notes\\c#\\enrollment\\enrollment.app\\models\\studentvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DB9BE4F-8126-43B1-9AB5-CCBD8154111C}|Enrollment.App\\Enrollment.App.csproj|solutionrelative:enrollment.app\\models\\studentvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DB9BE4F-8126-43B1-9AB5-CCBD8154111C}|Enrollment.App\\Enrollment.App.csproj|d:\\notes\\c#\\enrollment\\enrollment.app\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2DB9BE4F-8126-43B1-9AB5-CCBD8154111C}|Enrollment.App\\Enrollment.App.csproj|solutionrelative:enrollment.app\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2DB9BE4F-8126-43B1-9AB5-CCBD8154111C}|Enrollment.App\\Enrollment.App.csproj|d:\\notes\\c#\\enrollment\\enrollment.app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2DB9BE4F-8126-43B1-9AB5-CCBD8154111C}|Enrollment.App\\Enrollment.App.csproj|solutionrelative:enrollment.app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2DB9BE4F-8126-43B1-9AB5-CCBD8154111C}|Enrollment.App\\Enrollment.App.csproj|d:\\notes\\c#\\enrollment\\enrollment.app\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{2DB9BE4F-8126-43B1-9AB5-CCBD8154111C}|Enrollment.App\\Enrollment.App.csproj|solutionrelative:enrollment.app\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{6AD8CF91-5D40-4131-956A-DBBBF0456592}|Enrollment.Datamodel\\Enrollment.DataModel.csproj|d:\\notes\\c#\\enrollment\\enrollment.datamodel\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AD8CF91-5D40-4131-956A-DBBBF0456592}|Enrollment.Datamodel\\Enrollment.DataModel.csproj|solutionrelative:enrollment.datamodel\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6AD8CF91-5D40-4131-956A-DBBBF0456592}|Enrollment.Datamodel\\Enrollment.DataModel.csproj|d:\\notes\\c#\\enrollment\\enrollment.datamodel\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -54,48 +69,80 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
+<<<<<<< Updated upstream
           "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+=======
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\Notes\\C#\\Enrollment\\Enrollment.App\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "Enrollment.App\\Controllers\\StudentController.cs",
+              "ToolTip": "D:\\Notes\\C#\\Enrollment\\Enrollment.App\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "Enrollment.App\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAuwFQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T12:19:50.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+>>>>>>> Stashed changes
               "DocumentIndex": 0,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "D:\\Notes\\C#\\Enrollment\\Enrollment.App\\Views\\Student\\Edit.cshtml",
               "RelativeDocumentMoniker": "Enrollment.App\\Views\\Student\\Edit.cshtml",
               "ToolTip": "D:\\Notes\\C#\\Enrollment\\Enrollment.App\\Views\\Student\\Edit.cshtml",
               "RelativeToolTip": "Enrollment.App\\Views\\Student\\Edit.cshtml",
+<<<<<<< Updated upstream
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-01-08T15:55:53.843Z",
               "EditorCaption": ""
+=======
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+<<<<<<< Updated upstream
+              "WhenOpened": "2025-01-08T15:55:53.843Z"
+=======
+              "WhenOpened": "2025-01-12T12:19:09.302Z",
+              "EditorCaption": ""
+>>>>>>> Stashed changes
+>>>>>>> Stashed changes
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Notes\\C#\\Enrollment\\Enrollment.App\\Program.cs",
-              "RelativeDocumentMoniker": "Enrollment.App\\Program.cs",
-              "ToolTip": "D:\\Notes\\C#\\Enrollment\\Enrollment.App\\Program.cs",
-              "RelativeToolTip": "Enrollment.App\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "StudentVM.cs",
+              "DocumentMoniker": "D:\\Notes\\C#\\Enrollment\\Enrollment.App\\Models\\StudentVM.cs",
+              "RelativeDocumentMoniker": "Enrollment.App\\Models\\StudentVM.cs",
+              "ToolTip": "D:\\Notes\\C#\\Enrollment\\Enrollment.App\\Models\\StudentVM.cs",
+              "RelativeToolTip": "Enrollment.App\\Models\\StudentVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-31T07:17:19.583Z"
+              "WhenOpened": "2025-01-10T06:20:21.332Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "D:\\Notes\\C#\\Enrollment\\Enrollment.Datamodel\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Enrollment.Datamodel\\AppDbContext.cs",
               "ToolTip": "D:\\Notes\\C#\\Enrollment\\Enrollment.Datamodel\\AppDbContext.cs",
               "RelativeToolTip": "Enrollment.Datamodel\\AppDbContext.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAADwvygAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAC8AAAAAAAAAAADwvzAAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-31T05:50:53.988Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 8,
               "Title": "Teacher.cs",
               "DocumentMoniker": "D:\\Notes\\C#\\Enrollment\\Enrollment.Datamodel\\Teacher.cs",
               "RelativeDocumentMoniker": "Enrollment.Datamodel\\Teacher.cs",
@@ -107,7 +154,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 7,
               "Title": "Subject.cs",
               "DocumentMoniker": "D:\\Notes\\C#\\Enrollment\\Enrollment.Datamodel\\Subject.cs",
               "RelativeDocumentMoniker": "Enrollment.Datamodel\\Subject.cs",
@@ -119,6 +166,7 @@
             },
             {
               "$type": "Document",
+<<<<<<< Updated upstream
               "DocumentIndex": 3,
               "Title": "Student.cs",
               "DocumentMoniker": "D:\\Notes\\C#\\Enrollment\\Enrollment.Datamodel\\Student.cs",
@@ -132,13 +180,17 @@
             {
               "$type": "Document",
               "DocumentIndex": 6,
+=======
+              "DocumentIndex": 1,
+>>>>>>> Stashed changes
               "Title": "Add.cshtml",
               "DocumentMoniker": "D:\\Notes\\C#\\Enrollment\\Enrollment.App\\Views\\Student\\Add.cshtml",
               "RelativeDocumentMoniker": "Enrollment.App\\Views\\Student\\Add.cshtml",
               "ToolTip": "D:\\Notes\\C#\\Enrollment\\Enrollment.App\\Views\\Student\\Add.cshtml",
               "RelativeToolTip": "Enrollment.App\\Views\\Student\\Add.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAIwBQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+<<<<<<< Updated upstream
               "WhenOpened": "2024-12-31T05:42:26.542Z"
             },
             {
@@ -164,31 +216,35 @@
               "ViewState": "AgIAAEgAAAAAAAAAAAAAACUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-31T05:06:32.969Z",
+=======
+              "WhenOpened": "2024-12-31T05:42:26.542Z",
+>>>>>>> Stashed changes
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\Notes\\C#\\Enrollment\\Enrollment.App\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Enrollment.App\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\Notes\\C#\\Enrollment\\Enrollment.App\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Enrollment.App\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAACcAAAAAAAAAAAAAADIAAAA5AAAAAAAAAA==",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Notes\\C#\\Enrollment\\Enrollment.App\\Views\\Student\\Index.cshtml",
+              "RelativeDocumentMoniker": "Enrollment.App\\Views\\Student\\Index.cshtml",
+              "ToolTip": "D:\\Notes\\C#\\Enrollment\\Enrollment.App\\Views\\Student\\Index.cshtml",
+              "RelativeToolTip": "Enrollment.App\\Views\\Student\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-31T05:02:09.367Z"
+              "WhenOpened": "2024-12-31T05:09:55.181Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Notes\\C#\\Enrollment\\Enrollment.App\\appsettings.json",
-              "RelativeDocumentMoniker": "Enrollment.App\\appsettings.json",
-              "ToolTip": "D:\\Notes\\C#\\Enrollment\\Enrollment.App\\appsettings.json",
-              "RelativeToolTip": "Enrollment.App\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-31T08:58:53.879Z"
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Notes\\C#\\Enrollment\\Enrollment.App\\Program.cs",
+              "RelativeDocumentMoniker": "Enrollment.App\\Program.cs",
+              "ToolTip": "D:\\Notes\\C#\\Enrollment\\Enrollment.App\\Program.cs",
+              "RelativeToolTip": "Enrollment.App\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T12:01:23.912Z",
+              "EditorCaption": ""
             }
           ]
         }

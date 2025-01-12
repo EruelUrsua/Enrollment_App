@@ -190,16 +190,40 @@
               "RelativeToolTip": "Enrollment.App\\Views\\Student\\Add.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+<<<<<<< Updated upstream
+              "WhenOpened": "2024-12-31T05:42:26.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Notes\\C#\\Enrollment\\Enrollment.App\\Views\\Student\\Index.cshtml",
+              "RelativeDocumentMoniker": "Enrollment.App\\Views\\Student\\Index.cshtml",
+              "ToolTip": "D:\\Notes\\C#\\Enrollment\\Enrollment.App\\Views\\Student\\Index.cshtml",
+              "RelativeToolTip": "Enrollment.App\\Views\\Student\\Index.cshtml",
+              "ViewState": "AgIAABYAAAAAAAAAAAAqwCEAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-31T05:09:55.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\Notes\\C#\\Enrollment\\Enrollment.App\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "Enrollment.App\\Controllers\\StudentController.cs",
+              "ToolTip": "D:\\Notes\\C#\\Enrollment\\Enrollment.App\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "Enrollment.App\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAACUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T05:06:32.969Z",
+=======
               "WhenOpened": "2024-12-31T05:42:26.542Z",
+>>>>>>> Stashed changes
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-<<<<<<< Updated upstream
-              "DocumentIndex": 2,
-=======
               "DocumentIndex": 4,
->>>>>>> Stashed changes
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\Notes\\C#\\Enrollment\\Enrollment.App\\Views\\Student\\Index.cshtml",
               "RelativeDocumentMoniker": "Enrollment.App\\Views\\Student\\Index.cshtml",
@@ -211,22 +235,6 @@
             },
             {
               "$type": "Document",
-<<<<<<< Updated upstream
-              "DocumentIndex": 1,
-=======
-<<<<<<< Updated upstream
-              "DocumentIndex": 0,
->>>>>>> Stashed changes
-              "Title": "StudentController.cs",
-              "DocumentMoniker": "D:\\Notes\\C#\\Enrollment\\Enrollment.App\\Controllers\\StudentController.cs",
-              "RelativeDocumentMoniker": "Enrollment.App\\Controllers\\StudentController.cs",
-              "ToolTip": "D:\\Notes\\C#\\Enrollment\\Enrollment.App\\Controllers\\StudentController.cs",
-              "RelativeToolTip": "Enrollment.App\\Controllers\\StudentController.cs",
-<<<<<<< Updated upstream
-              "ViewState": "AgIAAEgAAAAAAAAAAAAAACUAAAAJAAAAAAAAAA==",
-=======
-              "ViewState": "AgIAAB0AAAAAAAAAAAAmwCUAAAAJAAAAAAAAAA==",
-=======
               "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Notes\\C#\\Enrollment\\Enrollment.App\\Program.cs",
@@ -234,8 +242,6 @@
               "ToolTip": "D:\\Notes\\C#\\Enrollment\\Enrollment.App\\Program.cs",
               "RelativeToolTip": "Enrollment.App\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
->>>>>>> Stashed changes
->>>>>>> Stashed changes
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-12T12:01:23.912Z",
               "EditorCaption": ""

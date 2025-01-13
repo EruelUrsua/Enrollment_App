@@ -1,9 +1,11 @@
 ﻿@model List<SubjectVM>
 <a asp-controller="Home" asp-action="Index" class="btn btn-primary">
+    <i class="fas fa-caret-square-left"></i>
     Back to Home Page
 </a>
 
 <a asp-controller="Subject" asp-action="Add" class="btn btn-success">
+    <i class="fas fa-plus"></i>
     Create New Subject
 </a>
 <br />
@@ -16,7 +18,7 @@
 }
 else
 {
-    <table class="table table-striped table-hover">
+    <table id="SubjectTable" class="table table-striped table-hover">
         <thead>
             <tr>
                 <th>I.D.</th>
@@ -37,9 +39,11 @@ else
                     <td>
                         <a asp-controller="Subject" asp-action="Edit" asp-route-id="@item.Id"
                            class="btn btn-info btn-sm">
+                            <i class="fas fa-edit"></i>
                             Edit
                         </a>
                         <button class="btn btn-danger btn-sm deleteBtn" data-id="@item.Id">
+                            <i class="fas fa-delete"></i>
                             Delete
                         </button>
                     </td>
@@ -57,6 +61,8 @@ else
 
 @section Scripts {
     <script>
+
+        let table = new DataTable('#SubjectTable');
         $('.deleteBtn').click(function(e) {
             swal({
                 title: "Are you sure?",

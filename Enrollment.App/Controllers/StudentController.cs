@@ -35,9 +35,6 @@ namespace Enrollment.App.Controllers
          public async Task<IActionResult> Add(StudentVM model)
         {
             Student entity = mapper.Map<Student>(model);
-            //entity.Id = model.Id;
-            //entity.Lastname = model.Lastname;
-            //entity.Firstname = model.Firstname;
 
             if (ModelState.IsValid == true)
             {

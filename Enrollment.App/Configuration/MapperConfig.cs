@@ -10,6 +10,7 @@ namespace Enrollment.App.Configuration
         {
             CreateMap<Student, StudentVM>().ReverseMap();
             CreateMap<Teacher, TeacherVM>().ReverseMap();
+            CreateMap<Subject, SubjectVM>().ReverseMap();
         }
     }
 }

@@ -16,6 +16,7 @@ builder.Services.AddAutoMapper(typeof(MapperConfig));
 
 builder.Services.AddScoped<ITeacherRepo, TeacherRepo>();
 
+builder.Services.AddScoped<ISubjectRepo, SubjectRepo>();
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();

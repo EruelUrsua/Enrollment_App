@@ -1,0 +1,35 @@
+﻿@model SubjectVM
+
+<h3>Create a New Subject</h3>
+
+
+<form asp-controller="Subject" asp-action="Add" method="post">
+    <!--<div asp-validation-summary="All" class="text-danger"></div>-->
+    <label asp-for="Code"></label>
+    <input type="text" asp-for="Code" class="form-control" />
+    <span asp-validation-for="Code" class="text-danger"></span>
+    <br /><br />
+    <label asp-for="Description"></label>
+    <input type="text" asp-for="Description" class="form-control" />
+    <span asp-validation-for="Description" class="text-danger"></span>
+    <br /><br />
+    <label asp-for="Units"></label>
+    <input type="number" asp-for="Units" class="form-control" />
+    <span asp-validation-for="Units" class="text-danger"></span>
+    <br /><br />
+
+    <a asp-controller="Subject" asp-action="Index" class="btn btn-primary">
+        Back
+    </a>
+    <input type="submit" value="Add Subject" class="btn btn-success" />
+
+</form>
+
+
+
+
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}

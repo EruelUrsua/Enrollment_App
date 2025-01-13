@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Enrollment.App")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bf156ef2849cf279b8fd27d1d61a73f47671a3c0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+36c7c2543a8f9f691bde20f46097dad66f492c62")]
 [assembly: System.Reflection.AssemblyProductAttribute("Enrollment.App")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Enrollment.App")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -3,28 +3,20 @@
   "WorkspaceRootPath": "D:\\Notes\\C#\\Enrollment\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2DB9BE4F-8126-43B1-9AB5-CCBD8154111C}|Enrollment.App\\Enrollment.App.csproj|d:\\notes\\c#\\enrollment\\enrollment.app\\views\\subject\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2DB9BE4F-8126-43B1-9AB5-CCBD8154111C}|Enrollment.App\\Enrollment.App.csproj|solutionrelative:enrollment.app\\views\\subject\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2DB9BE4F-8126-43B1-9AB5-CCBD8154111C}|Enrollment.App\\Enrollment.App.csproj|d:\\notes\\c#\\enrollment\\enrollment.app\\views\\teacher\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{2DB9BE4F-8126-43B1-9AB5-CCBD8154111C}|Enrollment.App\\Enrollment.App.csproj|solutionrelative:enrollment.app\\views\\teacher\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2DB9BE4F-8126-43B1-9AB5-CCBD8154111C}|Enrollment.App\\Enrollment.App.csproj|d:\\notes\\c#\\enrollment\\enrollment.app\\models\\subjectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2DB9BE4F-8126-43B1-9AB5-CCBD8154111C}|Enrollment.App\\Enrollment.App.csproj|solutionrelative:enrollment.app\\models\\subjectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2DB9BE4F-8126-43B1-9AB5-CCBD8154111C}|Enrollment.App\\Enrollment.App.csproj|d:\\notes\\c#\\enrollment\\enrollment.app\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2DB9BE4F-8126-43B1-9AB5-CCBD8154111C}|Enrollment.App\\Enrollment.App.csproj|solutionrelative:enrollment.app\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2DB9BE4F-8126-43B1-9AB5-CCBD8154111C}|Enrollment.App\\Enrollment.App.csproj|d:\\notes\\c#\\enrollment\\enrollment.app\\views\\subject\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2DB9BE4F-8126-43B1-9AB5-CCBD8154111C}|Enrollment.App\\Enrollment.App.csproj|solutionrelative:enrollment.app\\views\\subject\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{2DB9BE4F-8126-43B1-9AB5-CCBD8154111C}|Enrollment.App\\Enrollment.App.csproj|d:\\notes\\c#\\enrollment\\enrollment.app\\views\\subject\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2DB9BE4F-8126-43B1-9AB5-CCBD8154111C}|Enrollment.App\\Enrollment.App.csproj|solutionrelative:enrollment.app\\views\\subject\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2DB9BE4F-8126-43B1-9AB5-CCBD8154111C}|Enrollment.App\\Enrollment.App.csproj|d:\\notes\\c#\\enrollment\\enrollment.app\\views\\subject\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2DB9BE4F-8126-43B1-9AB5-CCBD8154111C}|Enrollment.App\\Enrollment.App.csproj|solutionrelative:enrollment.app\\views\\subject\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2DB9BE4F-8126-43B1-9AB5-CCBD8154111C}|Enrollment.App\\Enrollment.App.csproj|d:\\notes\\c#\\enrollment\\enrollment.app\\controllers\\teachercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2DB9BE4F-8126-43B1-9AB5-CCBD8154111C}|Enrollment.App\\Enrollment.App.csproj|solutionrelative:enrollment.app\\controllers\\teachercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2DB9BE4F-8126-43B1-9AB5-CCBD8154111C}|Enrollment.App\\Enrollment.App.csproj|d:\\notes\\c#\\enrollment\\enrollment.app\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2DB9BE4F-8126-43B1-9AB5-CCBD8154111C}|Enrollment.App\\Enrollment.App.csproj|solutionrelative:enrollment.app\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2DB9BE4F-8126-43B1-9AB5-CCBD8154111C}|Enrollment.App\\Enrollment.App.csproj|d:\\notes\\c#\\enrollment\\enrollment.app\\configuration\\mapperconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,89 +30,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Notes\\C#\\Enrollment\\Enrollment.App\\Views\\Teacher\\Index.cshtml",
-              "RelativeDocumentMoniker": "Enrollment.App\\Views\\Teacher\\Index.cshtml",
-              "ToolTip": "D:\\Notes\\C#\\Enrollment\\Enrollment.App\\Views\\Teacher\\Index.cshtml",
-              "RelativeToolTip": "Enrollment.App\\Views\\Teacher\\Index.cshtml",
-              "ViewState": "AgIAADwAAAAAAAAAAAAAAE4AAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\Notes\\C#\\Enrollment\\Enrollment.App\\Views\\Student\\Index.cshtml",
+              "RelativeDocumentMoniker": "Enrollment.App\\Views\\Student\\Index.cshtml",
+              "ToolTip": "D:\\Notes\\C#\\Enrollment\\Enrollment.App\\Views\\Student\\Index.cshtml",
+              "RelativeToolTip": "Enrollment.App\\Views\\Student\\Index.cshtml",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAD0AAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-13T11:08:36.428Z",
+              "WhenOpened": "2025-01-13T11:42:19.836Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "D:\\Notes\\C#\\Enrollment\\Enrollment.App\\Views\\Subject\\Edit.cshtml",
-              "RelativeDocumentMoniker": "Enrollment.App\\Views\\Subject\\Edit.cshtml",
-              "ToolTip": "D:\\Notes\\C#\\Enrollment\\Enrollment.App\\Views\\Subject\\Edit.cshtml",
-              "RelativeToolTip": "Enrollment.App\\Views\\Subject\\Edit.cshtml",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAAA4AAAAjAAAAAAAAAA==",
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Notes\\C#\\Enrollment\\Enrollment.App\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Enrollment.App\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Notes\\C#\\Enrollment\\Enrollment.App\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Enrollment.App\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAADoAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-13T11:05:51.819Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Add.cshtml",
-              "DocumentMoniker": "D:\\Notes\\C#\\Enrollment\\Enrollment.App\\Views\\Subject\\Add.cshtml",
-              "RelativeDocumentMoniker": "Enrollment.App\\Views\\Subject\\Add.cshtml",
-              "ToolTip": "D:\\Notes\\C#\\Enrollment\\Enrollment.App\\Views\\Subject\\Add.cshtml",
-              "RelativeToolTip": "Enrollment.App\\Views\\Subject\\Add.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-13T10:55:16.289Z",
+              "WhenOpened": "2025-01-13T11:27:37.135Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Notes\\C#\\Enrollment\\Enrollment.App\\Views\\Teacher\\Index.cshtml",
+              "RelativeDocumentMoniker": "Enrollment.App\\Views\\Teacher\\Index.cshtml",
+              "ToolTip": "D:\\Notes\\C#\\Enrollment\\Enrollment.App\\Views\\Teacher\\Index.cshtml",
+              "RelativeToolTip": "Enrollment.App\\Views\\Teacher\\Index.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-13T11:08:36.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\Notes\\C#\\Enrollment\\Enrollment.App\\Views\\Subject\\Index.cshtml",
               "RelativeDocumentMoniker": "Enrollment.App\\Views\\Subject\\Index.cshtml",
               "ToolTip": "D:\\Notes\\C#\\Enrollment\\Enrollment.App\\Views\\Subject\\Index.cshtml",
               "RelativeToolTip": "Enrollment.App\\Views\\Subject\\Index.cshtml",
-              "ViewState": "AgIAAD8AAAAAAAAAAAAAAEoAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAEAAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-01-13T10:44:43.671Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "TeacherController.cs",
-              "DocumentMoniker": "D:\\Notes\\C#\\Enrollment\\Enrollment.App\\Controllers\\TeacherController.cs",
-              "RelativeDocumentMoniker": "Enrollment.App\\Controllers\\TeacherController.cs",
-              "ToolTip": "D:\\Notes\\C#\\Enrollment\\Enrollment.App\\Controllers\\TeacherController.cs",
-              "RelativeToolTip": "Enrollment.App\\Controllers\\TeacherController.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAA0wEsAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T10:50:13.607Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "SubjectController.cs",
-              "DocumentMoniker": "D:\\Notes\\C#\\Enrollment\\Enrollment.App\\Models\\SubjectController.cs",
-              "RelativeDocumentMoniker": "Enrollment.App\\Models\\SubjectController.cs",
-              "ToolTip": "D:\\Notes\\C#\\Enrollment\\Enrollment.App\\Models\\SubjectController.cs",
-              "RelativeToolTip": "Enrollment.App\\Models\\SubjectController.cs",
-              "ViewState": "AgIAADMAAAAAAAAAAAA7wAoAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T10:40:42.406Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "MapperConfig.cs",
               "DocumentMoniker": "D:\\Notes\\C#\\Enrollment\\Enrollment.App\\Configuration\\MapperConfig.cs",
               "RelativeDocumentMoniker": "Enrollment.App\\Configuration\\MapperConfig.cs",

@@ -83,3 +83,5 @@ D:\Notes\C#\Enrollment\Enrollment.App\obj\Debug\net6.0\Enrollme.94BCE436.Up2Date
 D:\Notes\C#\Enrollment\Enrollment.App\bin\Debug\net6.0\libman.json
 D:\Notes\C#\Enrollment\Enrollment.App\bin\Debug\net6.0\AutoMapper.dll
 D:\Notes\C#\Enrollment\Enrollment.App\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Notes\C#\Enrollment\Enrollment.App\bin\Debug\net6.0\Entprog.DataModel.dll
+D:\Notes\C#\Enrollment\Enrollment.App\bin\Debug\net6.0\Entprog.DataModel.pdb

@@ -1,0 +1,16 @@
+D:\Notes\C#\Enrollment\Entprog.DataModel\bin\Debug\net6.0\Entprog.DataModel.deps.json
+D:\Notes\C#\Enrollment\Entprog.DataModel\bin\Debug\net6.0\Entprog.DataModel.dll
+D:\Notes\C#\Enrollment\Entprog.DataModel\bin\Debug\net6.0\Entprog.DataModel.pdb
+D:\Notes\C#\Enrollment\Entprog.DataModel\bin\Debug\net6.0\Enrollment.DataModel.dll
+D:\Notes\C#\Enrollment\Entprog.DataModel\bin\Debug\net6.0\Enrollment.DataModel.pdb
+D:\Notes\C#\Enrollment\Entprog.DataModel\obj\Debug\net6.0\Entprog.DataModel.csproj.AssemblyReference.cache
+D:\Notes\C#\Enrollment\Entprog.DataModel\obj\Debug\net6.0\Entprog.DataModel.GeneratedMSBuildEditorConfig.editorconfig
+D:\Notes\C#\Enrollment\Entprog.DataModel\obj\Debug\net6.0\Entprog.DataModel.AssemblyInfoInputs.cache
+D:\Notes\C#\Enrollment\Entprog.DataModel\obj\Debug\net6.0\Entprog.DataModel.AssemblyInfo.cs
+D:\Notes\C#\Enrollment\Entprog.DataModel\obj\Debug\net6.0\Entprog.DataModel.csproj.CoreCompileInputs.cache
+D:\Notes\C#\Enrollment\Entprog.DataModel\obj\Debug\net6.0\Entprog.DataModel.sourcelink.json
+D:\Notes\C#\Enrollment\Entprog.DataModel\obj\Debug\net6.0\Entprog..5C6E0EF2.Up2Date
+D:\Notes\C#\Enrollment\Entprog.DataModel\obj\Debug\net6.0\Entprog.DataModel.dll
+D:\Notes\C#\Enrollment\Entprog.DataModel\obj\Debug\net6.0\refint\Entprog.DataModel.dll
+D:\Notes\C#\Enrollment\Entprog.DataModel\obj\Debug\net6.0\Entprog.DataModel.pdb
+D:\Notes\C#\Enrollment\Entprog.DataModel\obj\Debug\net6.0\ref\Entprog.DataModel.dll

@@ -1,4 +1,5 @@
 ﻿using Enrollment.DataModel;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
@@ -8,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace Enrollment.Datamodel
 {
-    public class AppDbContext : DbContext
+    public class AppDbContext : IdentityDbContext<ApplicationUser>
     {
         public AppDbContext(DbContextOptions options) : base(options)
         {
@@ -49,5 +50,7 @@ namespace Enrollment.Datamodel
         public DbSet <Student> Students { get; set; }
         public DbSet<Teacher> Teachers { get; set;  }
         public DbSet<Subject> Subjects { get; set;  }
+
+      //  public DbSet<ApplicationUser> ApplicationUsers { get; set; }
     }
 }

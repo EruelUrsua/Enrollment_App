@@ -1,11 +1,14 @@
 ﻿using AutoMapper;
+using Enrollment.App.Models;
 using Enrollment.App.Models.Repositories;
 using Enrollment.DataModel;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
-namespace Enrollment.App.Models
+namespace Enrollment.App.Controllers
 {
+    [Authorize]
     public class SubjectController : Controller
     {
         private readonly ISubjectRepo repo;
@@ -13,22 +16,21 @@ namespace Enrollment.App.Models
         public SubjectController(ISubjectRepo repo, IMapper mapper)
         {
             this.repo = repo;
-            this.mapper = mapper;   
+            this.mapper = mapper;
         }
         // GET: SubjectController
         public async Task<ActionResult> Index()
         {
-            List<SubjectVM> list = mapper.Map<List<SubjectVM>>( await repo.GetAllAsync());
+            List<SubjectVM> list = mapper.Map<List<SubjectVM>>(await repo.GetAllAsync());
             return View(list);
         }
-
+  
         public IActionResult Add()
         {
 
             return View(new SubjectVM());
 
         }
-
         [HttpPost]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Add(SubjectVM model)

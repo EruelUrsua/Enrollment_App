@@ -2,10 +2,12 @@
 using Enrollment.App.Models;
 using Enrollment.Datamodel;
 using Enrollment.DataModel;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Enrollment.App.Controllers
 {
+    [Authorize]
     public class StudentController : Controller
     {
         private readonly AppDbContext context;

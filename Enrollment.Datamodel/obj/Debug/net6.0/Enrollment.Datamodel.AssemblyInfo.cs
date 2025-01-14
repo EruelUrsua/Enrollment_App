@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Enrollment.DataModel")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bf156ef2849cf279b8fd27d1d61a73f47671a3c0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9d146cfe19c3c6b877acd458f578e43154195fbe")]
 [assembly: System.Reflection.AssemblyProductAttribute("Enrollment.DataModel")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Enrollment.DataModel")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

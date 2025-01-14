@@ -2,10 +2,12 @@
 using Enrollment.App.Models;
 using Enrollment.App.Models.Repositories;
 using Enrollment.DataModel;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Enrollment.App.Controllers
 {
+    [Authorize]
     public class TeacherController : Controller
     {
         private readonly ITeacherRepo repo;

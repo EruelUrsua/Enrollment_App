@@ -85,3 +85,16 @@ D:\Notes\C#\Enrollment\Enrollment.App\bin\Debug\net6.0\AutoMapper.dll
 D:\Notes\C#\Enrollment\Enrollment.App\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 D:\Notes\C#\Enrollment\Enrollment.App\bin\Debug\net6.0\Entprog.DataModel.dll
 D:\Notes\C#\Enrollment\Enrollment.App\bin\Debug\net6.0\Entprog.DataModel.pdb
+D:\Notes\C#\Enrollment\Enrollment.App\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Notes\C#\Enrollment\Enrollment.App\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Notes\C#\Enrollment\Enrollment.App\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Notes\C#\Enrollment\Enrollment.App\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\Notes\C#\Enrollment\Enrollment.App\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Notes\C#\Enrollment\Enrollment.App\bin\Debug\net6.0\Humanizer.dll
+D:\Notes\C#\Enrollment\Enrollment.App\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Notes\C#\Enrollment\Enrollment.App\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Notes\C#\Enrollment\Enrollment.App\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\Notes\C#\Enrollment\Enrollment.App\bin\Debug\net6.0\System.CodeDom.dll
+D:\Notes\C#\Enrollment\Enrollment.App\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\Notes\C#\Enrollment\Enrollment.App\bin\Debug\net6.0\System.Text.Json.dll
+D:\Notes\C#\Enrollment\Enrollment.App\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
